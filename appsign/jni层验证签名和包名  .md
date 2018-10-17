@@ -14,7 +14,7 @@
 //合法的APP包名
 const char *app_packageName = "com.test";
 //合法的hashcode
-const int app_signature_hash_code = -375451654;
+const int app_signature_hash_code = 12345642;
 
 extern "C" JNIEXPORT jstring
 
